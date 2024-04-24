@@ -29,6 +29,10 @@
 
   Lonjakan (spike) dalam konteks ini merujuk pada peningkatan dalam aktivitas atau penggunaan sumber daya sistem. Dalam konteks menjalankan publisher, lonjakan bisa terjadi ketika publisher mengirimkan event-event besar atau dalam jumlah yang lebih tinggi dari biasanya ke message broker.
 
+4. Simulating slow subscriber
+![Subscriber1 Image](/images/rabbitmq2.png)
+
+
 
 
 
